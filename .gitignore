@@ -66,3 +66,15 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Secrets (WiFi passwords, SIM/APN credentials, API keys)
+secrets.h
+credentials.h
+.env
+
+# PlatformIO build output (if you use it in VS Code)
+.pio/
+
+# KiCad backups (if you design your power boards in it)
+*-backups/
+*.kicad_prl
