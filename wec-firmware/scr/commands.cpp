@@ -1,0 +1,1 @@
+//handles downlink commands (change interval, Starlink on…)

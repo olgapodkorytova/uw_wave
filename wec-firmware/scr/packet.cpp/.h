@@ -1,0 +1,1 @@
+//struct → packed bytes (and command bytes → struct)

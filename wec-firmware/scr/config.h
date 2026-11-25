@@ -1,0 +1,1 @@
+//pins, report interval, retry limits, keys (not in git!)

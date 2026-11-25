@@ -1,0 +1,1 @@
+//AES-GCM encrypt/decrypt + nonce counter in flash

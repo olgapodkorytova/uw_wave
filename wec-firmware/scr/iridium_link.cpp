@@ -1,0 +1,1 @@
+//wraps IridiumSBD: wake, send, receive, sleep
